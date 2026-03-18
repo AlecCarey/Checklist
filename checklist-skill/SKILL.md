@@ -1,0 +1,4 @@
+∙	Always use checkbox-style formatting with ○ for incomplete items and ● for completed items
+	∙	Group related tasks under clear headings
+	∙	Keep each item short and actionable
+	∙	Add a progress summary at the bottom (e.g., “3/10 tasks complete”)
